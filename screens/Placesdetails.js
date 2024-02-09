@@ -25,8 +25,8 @@ const Placesdetails = ({route,navigation})=>{
           initialRegion={{
             latitude: 33.225579, 
             longitude: -8.486397,
-            latitudeDelta: 0.004, // Ajustez la valeur de latitudeDelta pour zoomer sur la faculté des sciences d'El Jadida
-          longitudeDelta: 0.004, // Ajustez la valeur de longitudeDelta pour zoomer sur la faculté des sciences d'El Jadida
+            latitudeDelta: 0.004, 
+          longitudeDelta: 0.004, 
           }}
         >
               <Marker
